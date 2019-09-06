@@ -1,0 +1,14 @@
+CS411 Final Project todo List
+
+9.6:
+
+react native mobile app
+
+todo:
+1. set up environment
+2. react native tutorial
+3. 确定分工 前端 后端
+4. 初步定，德扑记录软件
+
+
+9.13 meeting
